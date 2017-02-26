@@ -8,7 +8,12 @@ Clone the repo, go to the directory and run
 
 ```
 npm install
-``` 
+```
 ##Run
 
 Go to the terminal and run with: node index.js
+
+Example credentials:
+
+username: example
+password: 123
